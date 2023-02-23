@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @priyanshmathur
 - 👀 I’m interested in Software Development and Web-Design
 - 🌱 I’m currently learning Computer Science from PES University
-- 💞️ I’m looking to collaborate on Open-Source projects
+- 💞️ I’m looking to collaborate on Open-Source projects stiched in the fabric of IoT and Deep Learning
 - 📫 How to reach me viz Linkedin,Mail
 
 
