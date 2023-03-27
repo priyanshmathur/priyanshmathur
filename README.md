@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @priyanshmathur
-- 👀 I’m interested in Software Development and Web-Design
-- 🌱 I’m currently learning Computer Science from PES University
-- 💞️ I’m looking to collaborate on Open-Source projects stiched in the fabric of IoT and Deep Learning
-- 📫 How to reach me viz Linkedin,Mail
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eeversr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyansh-mathur-6486b4238/) 
 
