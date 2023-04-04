@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Priyansh, a Computer Science Student 👨‍💻 in my Pre-Final Year 🚀</div>  
+#### <div align="center">I'm Priyansh, a Computer Science Student 👨‍💻 in my Pre-Final Year 🚀</div>  
   
 
-- 🔭 I’m currently working on [Raft logic Implementation using Golang at an advance level](https://www.google.com/search?q=kitten&rlz=1C1ONGR_enIN1018IN1018&tbm=isch&source=iu&ictx=1&vet=1&fir=istYcz98GWn1rM%252Cxx9Is_ftEERpBM%252C%252Fm%252F0hjzp%253B5UKE_ztEeyAg2M%252CdTDdan6TWTOO-M%252C_%253BB-Gl_6-jdKx4EM%252C-uzr7GKcWawrMM%252C_%253B9tPix-qN8KIPOM%252CXXfJrXhOwCIttM%252C_%253ByCoPFqqDu6fXGM%252Cvo1Ocq-YkePPhM%252C_%253BQhGXvdE7JdwgSM%252Cdx7x7ap27U7AyM%252C_&usg=AI4_-kSM1eeScqZ-JoaZoHLJzCxpCpIQpQ&sa=X&ved=2ahUKEwi8i7XLpI_-AhWNTWwGHfmcB4QQ_B16BAhnEAE#imgrc=istYcz98GWn1rM) {Its private for now :(}.  
+- 🔭 I’m currently working on [Raft logic Implementation using Golang](https://raft.github.io/raft.pdf) at a level which is equivalent to its original paper. 
   
 
 - 🌱 I’m currently learning Jaeger and Kubernetes  
