@@ -6,13 +6,13 @@
 ## <div align="center">I'm Priyansh, a Computer Science Student 👨‍💻 in my Pre-Final Year 🚀</div>  
   
 
-- 🔭 I’m currently working on [Raft logic Implementation using Golang](https://raft.github.io/raft.pdf) at a level which is equivalent to its original paper. 
+- 🔭 I’m currently working on [Raft logic Implementation using Golang](https://raft.github.io/raft.pdf) at a level equivalent to the original paper. 
   
 
 - 🌱 I’m currently learning Jaeger and Kubernetes  
   
 
-- ⚡ Fun fact: I read documentation   
+- ⚡ Fun fact: I (don't) read documentation   
   
 
 <br/>  
