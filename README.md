@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Jaeger and Kubernetes  
   
 
-- ⚡ Fun fact: Actually head over to [this](https://about:blank) link as it wont fit on this page.
+- ⚡ Fun fact: Actually head over to [this](https://about:blank) link as it wont fit on this page. 😅
   
 
 <br/>  
