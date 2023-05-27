@@ -6,10 +6,10 @@
 ## <div align="center">I'm Priyansh, a Computer Science Student 👨‍💻 in my Pre-Final Year 🚀</div>  
   
 
-- 🔭 I’m currently working on [Raft logic Implementation using Golang](https://raft.github.io/raft.pdf) at a level equivalent to the original paper. 
+- 🔭 I’m currently working on Fault Tracing In Micro-Service Architecture using OpenTelemetry techniques which is generally deployed on a single K8 Cluster node. 
   
 
-- 🌱 I’m currently learning Jaeger and Kubernetes  
+- 🌱 I’m currently learning Routing (Yes, you read it right)  
   
 
 - ⚡ Fun fact: Actually head over to [this](https://about:blank) link as it wont fit on this page. 😅
