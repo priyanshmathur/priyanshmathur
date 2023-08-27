@@ -12,9 +12,11 @@
 - 🌱 I’m currently (re)learning ReactJS 
 
 - 😂 Meme:
+  
 ![image](https://github.com/priyanshmathur/priyanshmathur/assets/80464081/0e2db763-b7ad-4b39-9a94-94ff84befbe4)
 
 - 🙏 Thanks for Checking out my Profile:
+  
 ![image](https://github.com/priyanshmathur/priyanshmathur/assets/80464081/b0e06acb-a9e0-49e0-8d49-3a8fa15043e1)
 
 
