@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my Project. 
   
 
-- 🌱 I’m currently (re)learning ReactJS 
+- 🌱 I’m currently .,.
 
 - 😂 Meme:
   
