@@ -93,13 +93,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=priyanshmathur&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" /></div>  
-
-<br/>  
-
-
 ## Recent Blog Posts  
   
 
