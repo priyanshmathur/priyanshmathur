@@ -3,13 +3,10 @@
 </div>  
   
 
-## <div align="center">I'm Priyansh, a Computer Science Student 👨‍💻 in my Pre-Final Year 🚀</div>  
+## <div align="center">I'm Priyansh, a Computer Science Student 👨‍💻 in my Final Year 🚀</div>  
   
 
-- 🔭 I’m currently working on my Project. 
-  
-
-- 🌱 I’m currently .,.
+- 🔭 I’m currently working on my Capstone Project. 
 
 - 😂 Meme:
   
