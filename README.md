@@ -6,18 +6,9 @@
 ## <div align="center">I'm Priyansh, a Computer Science Student 👨‍💻 in my Final Year 🚀</div>  
   
 
-- 🔭 I’m currently working at HPE. 
+- 🔭 I’m currently working at HPE.
+- 💡 Feel free to check out my repositories that hold interesting and valuable projects
 
-- 😂 Meme:
-  
-![image](https://github.com/priyanshmathur/priyanshmathur/assets/80464081/0e2db763-b7ad-4b39-9a94-94ff84befbe4)
-
-- 🙏 Thanks for Checking out my Profile:
-  
-![image](https://github.com/priyanshmathur/priyanshmathur/assets/80464081/b0e06acb-a9e0-49e0-8d49-3a8fa15043e1)
-
-
-  
 
 <br/>  
 
@@ -80,15 +71,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
-  
-
-<br/>  
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
   
 
 <br/>  
