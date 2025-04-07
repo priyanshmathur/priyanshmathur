@@ -6,7 +6,7 @@
 ## <div align="center">I'm Priyansh, a Computer Science Student 👨‍💻 in my Final Year 🚀</div>  
   
 
-- 🔭 I’m currently working on my Capstone Project. 
+- 🔭 I’m currently working at HPE. 
 
 - 😂 Meme:
   
