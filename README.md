@@ -7,7 +7,7 @@
   
 
 - 🔭 I’m currently working at HPE.
-- 💡 Feel free to check out my repositories that hold interesting and valuable projects
+- 💡 Feel free to check out my repositories that hold projects I have done.
 
 
 <br/>  
