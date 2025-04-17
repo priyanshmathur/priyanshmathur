@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">I'm Priyansh, a Computer Science Student 👨‍💻 in my Final Year 🚀</div>  
+## <div align="center">I'm Priyansh, a recent graduate in Computer Science who likes pushing boundaries of what is known</div>  
   
 
 - 🔭 I’m currently working at HPE.
